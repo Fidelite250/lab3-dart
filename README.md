@@ -42,11 +42,6 @@ Change the background color
 
 Update the displayed message
 
-Project Structure
-main.dart
- ├── MyApp (StatelessWidget)
- ├── ProfileCard (StatefulWidget)
- └── _ProfileCardState
 Learning Objectives
 
 Understanding StatelessWidget vs StatefulWidget
