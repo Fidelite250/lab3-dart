@@ -1,5 +1,5 @@
 # lab3-dart
-This repository it is aboutflutter project!
+
 Profile Card App
 
 A simple interactive Flutter application that displays a profile card with a dynamic like counter. The UI updates automatically based on user interaction.
